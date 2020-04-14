@@ -1,0 +1,213 @@
+.container{
+    top: 0;
+    margin: 0;
+    position: absolute;
+    width: 375px;
+    height: 667px;
+    background-color: #E5E5E5;
+    padding-top: 0;
+    border: 1px solid white;
+}
+    .lf{
+        position: absolute;
+            width: 100%;
+            height: 81px;
+            left: 0;
+            top: 0;
+            margin-top: 0;
+            padding-top: 0;
+            background: #3066E0;
+        }
+        p.pLF{
+            margin: 10px 150px auto 150px;
+            justify-content: center;
+            width: 62px;
+            height: 60px;
+            left: 115px;
+            top: 60px;
+            font-family: Montserrat,sans-serif;
+            font-style: normal;
+            font-weight: 800;
+            font-size: 49.28px;
+            line-height: 121.33%;
+            align-items: center;
+            text-align: center;
+            color: #F7D352;
+        }
+    .text {
+        margin-top: 0;
+        display: flex;
+        height: 90px;
+        justify-content: space-between;
+    }
+.vhText{
+    position: absolute;
+    width: 78.12px;
+    height: 35.42px;
+    left: 31.94px;
+    top: 114.93px;
+    font-family: Roboto Slab,sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 29.1667px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #252D76;
+}
+.regText{
+    position: absolute;
+    width: 109px;
+    height: 19px;
+    left: 234px;
+    top: 130px;
+    font-family: Roboto Slab,sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15.2778px;
+    line-height: 121.33%;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #AEAEAE;
+}
+                .emailVh{
+                    position: absolute;
+                    width: 108.68px;
+                    height: 22.92px;
+                    left: 41.32px;
+                    top: 211px;
+                    font-family: Ubuntu,sans-serif;
+                    font-style: normal;
+                    font-weight: bold;
+                    font-size: 13.1944px;
+                    line-height: 15px;
+                    color: #252D76;
+                    opacity: 0.5;
+        }
+        .line1Vh{
+            opacity: 0.2;
+            border-bottom: 1.2px solid #252D76;
+            margin-top: 250px ;
+            width: 302.43px;
+            margin-left: 40px;
+        }
+                    .emailTextVh{
+                        position: absolute;
+                        width: 302.43px;
+                        height: 22px;
+                        left: 40.28px;
+                        top: 225px;
+                        border:none;
+                        outline: none;
+                        font-family: Quicksand,sans-serif;
+                        font-style: normal;
+                        font-weight: bold;
+                        font-size: 13.8889px;
+                        line-height: 17px;
+                        color: #252D76;
+                        background: #E5E5E5;
+                    }
+                    .passwordVh{
+                        position: absolute;
+                        width: 108.68px;
+                        height: 22.92px;
+                        left: 41.32px;
+                        top: 280px;
+                        font-family: Ubuntu,sans-serif;
+                        font-style: normal;
+                        font-weight: bold;
+                        font-size: 13.1944px;
+                        line-height: 15px;
+                        color: #252D76;
+                        opacity: 0.5;
+                    }
+    .line2Vh{
+        opacity: 0.2;
+        border-bottom: 1.2px solid #252D76;
+        margin-top: 70px ;
+        width: 302.43px;
+        margin-left: 40px;
+    }
+                        .passwordTextVh{
+                            position: absolute;
+                            width: 302.43px;
+                            height: 22px;
+                            left: 40.28px;
+                            top: 295px;
+                            border:none;
+                            outline: none;
+                            font-family: Quicksand,sans-serif;
+                            font-style: normal;
+                            font-weight: bold;
+                            font-size: 13.8889px;
+                            line-height: 17px;
+                            color: #252D76;
+                            background: #E5E5E5;
+                        }
+    p.reg{
+        position: absolute;
+        width: 215px;
+        height: 18px;
+        left: 80px;
+        top: 372px;
+
+        font-family: Montserrat,sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 146.1%;
+        color: #929292;
+    }
+    .registration{
+        position: absolute;
+        width: 101px;
+        height: 18px;
+        left: 137px;
+        top: 397px;
+        font-family: Montserrat,sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 13.8889px;
+        line-height: 146.1%;
+        color: #3066E0;
+    }
+    .btnVh{
+        position: absolute;
+        width: 156.94px;
+        height: 35.42px;
+        left: 109px;
+        top: 457px;
+        background: #3168DE;
+        box-shadow: 0px 1.38889px 6.94445px rgba(0, 0, 0, 0.1);
+        border-radius: 22.9167px;
+    }
+    .btn-textVh{
+        margin: 6px auto auto 38px;
+        width: 55.56px;
+        height: 24.31px;
+        left: 159px;
+        top: 315.62px;
+
+        font-family: Quicksand,sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 13.8889px;
+        line-height: 17px;
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+    .err{
+        position: absolute;
+        font-family: Roboto,sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 24px;
+        top: 330px;
+        left: 140px;
+        color: #E81D4E;
+    }
+

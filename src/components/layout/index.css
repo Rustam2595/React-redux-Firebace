@@ -1,0 +1,89 @@
+.container1{
+    position: relative;
+    width: 375px;
+    height: 667px;
+    background-color: #3066E0;
+}
+    .top1{
+        position: absolute;
+        width: 375px;
+        height: 80px;
+        left: 0;
+        top: 0;
+        margin-top: 0;
+        padding-top: 0;
+        display: flex;
+        flex-direction: column;
+    }
+        .lf1{
+            margin: 50px 150px auto 150px;
+            justify-content: center;
+            width: 62px;
+            height: 60px;
+            left: 115px;
+            top: 60px;
+            font-family: Montserrat,sans-serif;
+            font-style: normal;
+            font-weight: 800;
+            font-size: 49.28px;
+            line-height: 121.33%;
+            align-items: center;
+            text-align: center;
+            color: #F7D352;
+        }
+        .bz1{
+            font-family: Roboto Slab,sans-serif;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 29.17px;
+            line-height: 121.33%;
+            justify-content: center;
+            display: flex;
+            align-items: center;
+            text-align: center;
+            color: #FFFFFF;
+        }
+        .hear1{
+            font-family: Quicksand,sans-serif;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 14px;
+            line-height: 17px;
+            text-align: center;
+            color: #FFFFFF;
+            margin-top: 0;
+        }
+    .googleMap1{
+        top:230px;
+        position: absolute;
+        width: 100%;
+        height: 287px;
+    }
+    .bottom1{
+        top: 517px;
+        position: absolute;
+        margin: 65px auto 50px auto;
+        width: 185px;
+        height: 35px;
+        left: 95px;
+
+    }
+        .btn1{
+            height: 100%;
+            width: 100%;
+            background: #FFFFFF;
+            box-shadow: 0 1.38889px 6.94445px rgba(0, 0, 0, 0.1);
+            border-radius: 22.9167px;
+            cursor: pointer;
+        }
+            .text1{
+                margin-top: 3px;
+                height: 24px;
+                font-family: Quicksand,sans-serif;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 13.8889px;
+                line-height: 17px;
+                text-align: center;
+                color: #3066E0;
+            }
